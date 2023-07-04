@@ -1,4 +1,4 @@
-# educationsystem
+# intelligent_education_system
 
 ## Project setup
 ```
